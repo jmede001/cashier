@@ -13,4 +13,11 @@ D:\Cashier>git config --global user.name Jessica
 5) git commit -m first     to commit
 
 
+to push it you attach to cloud
+and push to cloud with
+
+D:\Cashier>git remote add origin https://github.com/jmede001/cashier.git
+
+D:\Cashier>git push -u origin master
+
 congrat your first git
