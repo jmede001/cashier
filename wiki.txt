@@ -1,0 +1,16 @@
+1) crate public repo in gitbug
+1) go to your dir
+3  git init to start it
+4) git add . to stage it
+
+
+interrupt: github the first time will ask you to indentify yourself
+
+D:\Cashier>git config --global user.email jmede009@fiu.edu
+
+D:\Cashier>git config --global user.name Jessica
+
+5) git commit -m first     to commit
+
+
+congrat your first git
